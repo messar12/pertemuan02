@@ -1,6 +1,6 @@
 package Koneksi;
 
-public class Main{
+public class Database{
 	public static void hubungkan(){
 		System.out.println("Database Terhubung !!");
 		
